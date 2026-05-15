@@ -6,11 +6,9 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          I am currently co-founder of CallHQ.ai, building real-time voice AI for
-          businesses. I am a technologist at heart with strong business judgment—
-          I enjoy going from product strategy to hands-on engineering. My background
-          spans leadership at Adobe, founding Broki and CallHQ, and shipping
-          full-stack products end to end.
+          I am currently pursuing MCA at SIES Nerul and actively focusing on upscaling my skills in Cybersecurity and Ethical Hacking. I enjoy exploring network security, ethical hacking techniques, and modern security tools while continuously learning new technologies in the cybersecurity domain. Along with security, I love developing websites using different AI tools and modern web technologies to create creative and efficient digital experiences.
+
+          Apart from academics and tech, my hobbies include playing cricket, travelling, listening to music, and drawing, which help me stay creative and motivated.
         </p>
       </div>
     </div>
