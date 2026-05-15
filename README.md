@@ -173,4 +173,4 @@ You can adapt this portfolio to your own profile by updating the following areas
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+
